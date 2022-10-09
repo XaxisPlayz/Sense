@@ -1,0 +1,7 @@
+name: Sense
+version: '${project.version}'
+main: me.xaxis.sense.Sense
+api-version: 1.19
+authors: [ Xaxis ]
+commands:
+
